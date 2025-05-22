@@ -8,8 +8,3 @@
 payload:
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,notebooklm.google
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,googletagmanager.com
-  - DOMAIN,cjpalhdlnbpafiamejdnhcphjbkeiagm
-  - DOMAIN,nffaoalbilbmmfgbnbgppjihopabppdk
-  - DOMAIN,mcebeofpilippmndlpcghpmghcljajna
