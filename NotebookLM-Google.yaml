@@ -1,0 +1,15 @@
+# NAME: NotebookLM Google
+# AUTHOR: JhonnyAxe
+# REPO: https://github.com/JhonnyAxe/NotebookLM-Google
+# UPDATED: 2025-05-22 12:00:00
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 4
+# TOTAL: 7
+payload:
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN,cjpalhdlnbpafiamejdnhcphjbkeiagm
+  - DOMAIN,nffaoalbilbmmfgbnbgppjihopabppdk
+  - DOMAIN,mcebeofpilippmndlpcghpmghcljajna
